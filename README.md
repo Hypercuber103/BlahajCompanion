@@ -38,12 +38,12 @@ Want to run Blåhaj Bot yourself? Follow these steps:
 2. Scaffold the Project
    1. Create a basic folder structure:
 
-``blahaj-bot/
+blahaj-bot/
 │
 ├── node_modules/
 ├── index.js
 ├── package.json
-└── .env``
+└── .en
 
   - package.json: Initialize it with npm init -y.
   - .env: Store your bot token securely here using the dotenv package.
