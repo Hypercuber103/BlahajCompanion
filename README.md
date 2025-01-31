@@ -24,7 +24,7 @@ Want to run Blåhaj Bot yourself? Follow these steps:
 ### 1️⃣ **Clone the Blahajcode**
 ``https://github.com/Hypercuber103/BlahajCompanion/blob/main/Blahajcode``
 
-### 2️⃣ ## ok im too lazy to do the other stuff js follow this chatgpt tutorial ##
+### 2️⃣ **ok im too lazy to do the other stuff js follow this chatgpt tutorial**
 
 1. Set Up Your Development Environment
   1. Install Node.js: Download and install the latest LTS version of Node.js from nodejs.org.
