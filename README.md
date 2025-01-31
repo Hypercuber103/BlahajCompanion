@@ -40,10 +40,10 @@ Want to run Blåhaj Bot yourself? Follow these steps:
 
 blahaj-bot/
 │
-├── node_modules/
-├── index.js
-├── package.json
-└── .en
+├ node_modules/
+├ index.js
+├ package.json
+└ .en
 
   - package.json: Initialize it with npm init -y.
   - .env: Store your bot token securely here using the dotenv package.
