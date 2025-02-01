@@ -23,4 +23,4 @@ Since we **do not store** user data, there is nothing to request for deletion.
 ## 5. Changes to This Policy
 We may update this policy at any time. If significant changes occur, we will announce them in the bot’s support server.
 
-📩 **Questions?** Contact the bot owner via GitHub or Discor
+📩 **Questions?** Contact the bot owner via GitHub or Discord
