@@ -7,16 +7,17 @@ Blåhaj Bot is a fun and friendly **Discord bot** that brings good vibes, shark 
 ✔ **Rotating Status** – Changes every minute for a dynamic feel.  
 ✔ **Lightweight & Fast** – Powered by **Discord.js** for smooth performance.  
 ✔ **No Data Collection** – Privacy-friendly and safe to use.  
+✔ **Slash commands**
 
 ## 🔧 Commands
 | Command          | Description |
 |-----------------|-------------|
-| `!help`         | View all commands 📃 |
-| `!sharkfact`    | Get a random shark or Blåhaj fact 🤔 |
-| `!hug`          | Receive a warm (or rare sassy) hug 🤗 |
-| `!blahajdance`  | Watch Blåhaj show off dance moves! 🕺 |
-| `!joke`         | Hear a shark-themed joke 🤣 |
-| `!pridelevel`   | Check your pride level! 🏳️‍🌈 |
+| `/help`         | View all commands 📃 |
+| `/sharkfact`    | Get a random shark or Blåhaj fact 🤔 |
+| `/hug`          | Receive a warm (or rare sassy) hug 🤗 |
+| `/blahajdance`  | Watch Blåhaj show off dance moves! 🕺 |
+| `/joke`         | Hear a shark-themed joke 🤣 |
+| `/pridelevel`   | Check your pride level! 🏳️‍🌈 |
 
 ## 🚀 Installation
 Want to run Blåhaj Bot yourself? Follow these steps:
